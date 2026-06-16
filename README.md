@@ -60,8 +60,8 @@ motto       : "The sky is not the limit — it's the beginning."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedmesnadi20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmesnadi20&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedmesnadi20-hash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmesnadi20-hash&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
 
 </div>
 
@@ -69,7 +69,7 @@ motto       : "The sky is not the limit — it's the beginning."
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammedmesnadi20&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=mohammedmesnadi20-hash&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -79,7 +79,7 @@ motto       : "The sky is not the limit — it's the beginning."
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mohammedmesnadi20&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohammedmesnadi20-hash&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)
 
 </div>
 
@@ -89,7 +89,7 @@ motto       : "The sky is not the limit — it's the beginning."
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/mohammedmesnadi20/mohammedmesnadi20/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mohammedmesnadi20-hash/mohammedmesnadi20-hash/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
