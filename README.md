@@ -89,7 +89,7 @@ motto       : "The sky is not the limit — it's the beginning."
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/mohammedmesnadi20-hash/mohammedmesnadi20-hash/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mohammedmesnadi20-hash/mohammedmesnadi20/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
